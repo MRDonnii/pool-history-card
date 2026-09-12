@@ -1,5 +1,12 @@
 # Pool History Card
 
+## Neutral mobile preview
+
+![Neutral mobile preview of pool-history-card](docs/preview.png)
+
+> Rendered at 390 px mobile width with fictional Home Assistant entities and values. No private dashboard, person, address, camera, or sensor data is included.
+
+
 To beslægtede kort i én fil:
 
 - **`pool-history-card`** — graf over høj/lav vandtemperatur og sandfilter-køretid over de sidste N dage.
